@@ -74,7 +74,7 @@ class SolFichaDsController extends Controller
             'cuartos_casa' => 'required|integer|min:1|max:100',
             'personas_casa' => 'required|integer|min:1',
             'personas_dependen' => 'required|integer|min:0',
-            'tipo_sangre' => 'required|string|max:20',
+            'tipo_sangre' => 'requi9red|string|max:20',
             'comunicar_con' => 'required|string|max:100',
             'calle_no' => 'required|string|max:80',
             'colonia' => 'required|string|max:40',

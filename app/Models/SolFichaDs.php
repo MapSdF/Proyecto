@@ -36,6 +36,6 @@ class SolFichaDs extends Model
         'periodo',
     ];
     
-    // Habilitar timestamps (created_at, updated_at)
+    
     public $timestamps = true;
 }
